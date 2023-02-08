@@ -1,5 +1,5 @@
 # SEO_refactor
-Module 2 Challenge - Refactor for accessibility and SEO
+Module 1 Challenge - Refactor for accessibility and SEO
 
 ## User Story
 
