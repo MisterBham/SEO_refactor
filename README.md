@@ -2,9 +2,7 @@
 
 Module 1 Challenge - Refactor for accessibility and SEO
 
-    ```md
     ![Screenshot of Heriseon homepage](./assets/images/home-screenshot.jpg)
-    ```
 
     Link to live application: https://misterbham.github.io/SEO_refactor/
 
