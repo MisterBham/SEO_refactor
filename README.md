@@ -2,7 +2,7 @@
 
 Module 1 Challenge - Refactor for accessibility and SEO
 
-<img src="./assets/images/home-screenshot.jpg">
+![Screenshot of Horiseon Homepage](./assets/images/home-screenshot.jpg)
 
 Link to live application: https://misterbham.github.io/SEO_refactor/
 
