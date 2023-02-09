@@ -2,9 +2,9 @@
 
 Module 1 Challenge - Refactor for accessibility and SEO
 
-    <img src="./assets/images/home-screenshot.jpg">
+<img src="./assets/images/home-screenshot.jpg">
 
-    Link to live application: https://misterbham.github.io/SEO_refactor/
+Link to live application: https://misterbham.github.io/SEO_refactor/
 
 My motivation in this repo is to learn accessibility best practices for websites, and become more familiar with Web Content Accessibility Guidelines.
 
