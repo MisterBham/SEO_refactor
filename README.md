@@ -1,26 +1,15 @@
 # SEO_refactor
+
 Module 1 Challenge - Refactor for accessibility and SEO
 
-## User Story
+    ```md
+    ![Screenshot of Heriseon homepage](./assets/images/home-screenshot.jpg)
+    ```
 
-AS A marketing agency
-I WANT a codebase that follows accessibility standards
-SO THAT our own site is optimized for search engines
+    Link to live application: https://misterbham.github.io/SEO_refactor/
 
-## Acceptance Criteria
+My motivation in this repo is to learn accessibility best practices for websites, and become more familiar with Web Content Accessibility Guidelines.
 
-GIVEN a webpage meets accessibility standards
-WHEN I view the source code
-THEN I find semantic HTML elements
-WHEN I view the structure of the HTML elements
-THEN I find that the elements follow a logical structure independent of styling and positioning
-WHEN I view the image elements
-THEN I find accessible alt attributes
-WHEN I view the heading attributes
-THEN they fall in sequential order
-WHEN I view the title element
-THEN I find a concise, descriptive title
+This project was built to put these learnings into practice. I took an existing repo from another developer (https://github.com/coding-boot-camp/urban-octo-telegram) that was lacking in accessibility, with the intent to refactor the original code to be better suited to accessibility standards.
 
-## Extra Mile
-
-To impress clients, you should always go the extra mile and improve the codebase for long-term sustainability. For example, make sure that all links are functioning correctly. Also, rework the CSS to make it more efficient by consolidating CSS selectors and properties, organizing them to follow the semantic structure of the HTML elements, and including comments before each element or section of the page.
+With the refactoring of this code, I learned the importance of Semantic HTML tags, structure, and the advantages this creates for things like screen readers and search engine indexing.
